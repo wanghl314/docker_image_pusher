@@ -2,3 +2,4 @@ mongo
 nginx
 rabbitmq:4.0-management
 redis
+eclipse-temurin
