@@ -3,3 +3,4 @@ nginx
 rabbitmq:4.0-management
 redis
 eclipse-temurin
+ghcr.io/open-webui/open-webui:main
