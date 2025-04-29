@@ -1,6 +1,6 @@
 mongo
 nginx
-rabbitmq:4.0-management
+rabbitmq:4-management
 redis
 eclipse-temurin
 redis/redis-stack-server
