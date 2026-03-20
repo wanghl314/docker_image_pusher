@@ -1,3 +1,4 @@
+hello-world
 mongo
 nginx
 rabbitmq:4-management
