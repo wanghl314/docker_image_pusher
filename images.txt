@@ -1,6 +1,13 @@
+hello-world
+mongo
 nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+rabbitmq:4-management
+redis
+eclipse-temurin:21-jdk
+redis/redis-stack-server
+# ghcr.io/open-webui/open-webui:main
+pgvector/pgvector:pg18
+multiarch/qemu-user-static
+--platform=linux/arm64 ubuntu:24.04
+--platform=linux/arm64 rockylinux/rockylinux:9.8
+--platform=linux/arm64 rockylinux/rockylinux:9.8-minimal
